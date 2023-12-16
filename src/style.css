@@ -1,0 +1,11 @@
+.brushing {
+    font-family: "Brush Script MT", sans-serif;
+    font-size: 0.8em;
+    border-top: 1px dotted #ccc;
+    border-bottom: 1px dotted #ccc;
+}
+
+.date-info {
+font-size: 0.6em;
+color: gray;
+}
